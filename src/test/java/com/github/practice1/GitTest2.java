@@ -8,6 +8,7 @@ public class GitTest2 {
 	{
 		
 		System.out.println("user 1-  1st comit");
+		System.out.println("user 2 1st comit");
 	}
 
 
