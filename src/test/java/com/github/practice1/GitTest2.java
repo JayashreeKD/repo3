@@ -12,6 +12,8 @@ public class GitTest2 {
 		System.out.println("user 1- 1st push");
 		System.out.println("user 2 -2nd comit ");
 		System.out.println("user 1 3rd comit");
+		System.out.println("trying to coflit -user 1");
+		
 	}
 
 
